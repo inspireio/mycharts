@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2017-12-15T01:07:06.827512621-08:00
+    description: A Helm chart for Kubernetes
+    digest: 4d3b4f549ef30a6b40f53c1b0869cf704b9d7e2a4175d27132f78d2d08d82755
+    name: notificationchart
+    urls:
+    - https://inspireio.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-15T01:07:06.824737421-08:00
